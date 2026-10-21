@@ -1,0 +1,15 @@
+{
+  "project": "mainsport",
+  "sites": [
+    {
+      "host": "mainsport.ru",
+      "projectId": "prj_pn1dQ2d5aAvjUUwT9pb8OpogxnJn",
+      "key": "0b087d641b96c266dd7f2c0f4eef0bfb",
+      "keyLocation": "https://mainsport.ru/0b087d641b96c266dd7f2c0f4eef0bfb.txt",
+      "markerUrl": "https://mainsport.ru/indexnow-deployment.json",
+      "fallbackUrls": [
+        "https://mainsport.ru/"
+      ]
+    }
+  ]
+}
